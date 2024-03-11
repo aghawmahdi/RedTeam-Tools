@@ -7,9 +7,8 @@
 * Mobile https://mitre-attack.github.io/attack-navigator/mobile/
 * Diamond Model https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/diamond-model-intrusion-analysis/
 * APT References
-  * https://www.fireeye.com/current-threats/apt-groups.html&#x20;
+  * https://www.fireeye.com/current-threats/apt-groups.html
   * https://apt.securelist.com/#!/threats/
-  * https://pan-unit42.github.io/playbook\_viewer/&#x20;
   * https://research.checkpoint.com/apt-map/&#x20;
   * https://apt-ecosystem.com/russia/map/
 
